@@ -1,2 +1,0 @@
-# FabricReactTodoApp
-Created with CodeSandbox
